@@ -61,7 +61,7 @@ async function run(args) {
 
     const message = messageList.join(`\n${"-".repeat(15)}\n`);
     Notify.pushMessage({
-      title: "Lien的悬置女境",
+      title: "Lien的悬置之境",
       content: message,
       msgtype: "text"
     });
